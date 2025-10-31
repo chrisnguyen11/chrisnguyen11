@@ -14,9 +14,10 @@ In university, I studied biophysics and worked in Heather Wheeler's lab at Loyol
 - [Homolog Search Tools](https://github.com/chrisnguyen11/homolog-search-tools) - tools for protein sequence analysis: search protein databases for homologs, visualize search results, and perform sequence-based analysis for downstream applications.
 
 ### Data Science and ML Projects
-- ... - 
-
-## 
+- Protein Language Modeling. A series of notebooks exploring different applications of protein language models.
+  1. Species Bias: Quantifies species-level bias by comparing ESM-2 sequence likelihoods across model and non-model organisms.
+  2. ESM Decoder: Trains a decoder model to reconstruct protein sequences from ESM-2 embeddings.
+  3. Finetune ESM: Finetune ESM-2 using both full-parameter training and LoRA to evaluate adaptation in selected organisms.
 
 <!--
 **chrisnguyen11/chrisnguyen11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
