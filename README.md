@@ -2,11 +2,11 @@
 
 ## About
 
-Previously, I was a research associate at LanzaTech, a bio-recycling technology aiming to convert waste carbon emissions to sustainable chemical products. 
-There, I leveraged data science in synthetic biology and continuous fermentation data.
-I developed an interest in machine learning techniques to optimize protein sequences for various synthetic biology projects. 
+ML scientist specializing in protein language models, structure-based design, and biological sequence analysis. Previously at LanzaTech, where I built protein ML pipelines leveraging ESM embeddings, AlphaFold-2, DiffDock, and MD simulation to accelerate enzyme engineering on HPC infrastructure.
 
-In university, I studied biophysics and worked in Heather Wheeler's lab at Loyola University at Chicago, where I used machine learning methods in human genomics.
+Current projects focus on adapting pretrained models for non-model organisms: quantifying ESM-2 species bias, fine-tuning with LoRA, and training embedding decoders. See Projects below.
+
+In university, I studied biophysics with a background in human genomics from Heather Wheeler's lab at Loyola University Chicago.
 
 ## Projects and Repositories
 
